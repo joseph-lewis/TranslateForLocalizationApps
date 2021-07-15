@@ -1,0 +1,8 @@
+<string name="This">この</string>
+<string name="is">です</string>
+<string name="a">a</string>
+<string name="test">テスト</string>
+<string name="library">図書館</string>
+<string name="student">学生</string>
+<string name="translate">翻訳する</string>
+<string name="two words">二つの単語</string>

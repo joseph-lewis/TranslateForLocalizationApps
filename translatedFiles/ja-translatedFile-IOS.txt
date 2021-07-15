@@ -1,0 +1,8 @@
+"This" = "この";
+"is" = "です";
+"a" = "a";
+"test" = "テスト";
+"library" = "図書館";
+"student" = "学生";
+"translate" = "翻訳する";
+"two words" = "二つの単語";
